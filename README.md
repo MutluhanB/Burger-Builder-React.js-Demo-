@@ -6,6 +6,8 @@
  Download the files and then run the following inside the directory from the command line
  > npm install .
  
+Mobile UI
 ![](/demoMobile.gif)
  
+Desktop UI
 ![](/demoDesktop.gif)
