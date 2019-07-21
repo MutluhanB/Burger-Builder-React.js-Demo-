@@ -6,4 +6,4 @@
  Download the files and then run the following inside the directory from the command line
  > npm install .
  
-
+![Farmers Market Finder Demo](/demoMobile.gif)
