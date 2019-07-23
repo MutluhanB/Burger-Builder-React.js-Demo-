@@ -4,7 +4,7 @@ a web app for making and ordering burgers developed with react.js
 
 ### Burger-Builder is a demo react.js project
 
-### [Click Here To Check It Out]: https://mutluhanb.github.io/Burger-Builder-React.js-Demo-/
+### [https://mutluhanb.github.io/Burger-Builder-React.js-Demo-/]: Click Here To Check It Out
 
 #### All Opeartions requires npm -and probably node- please look at additional resources to see how to install them.
 
